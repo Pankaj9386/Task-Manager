@@ -1,0 +1,1 @@
+create a new bank account with the certain bank with add bank balance of rupees 40000
